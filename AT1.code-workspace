@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "../JAVA/PLE-2020/helloworld"
+		},
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"git.ignoreLimitWarning": true
+	}
+}
